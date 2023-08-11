@@ -4,7 +4,7 @@
 /* more headers goes there */
 /* The main function will check if n is positive negative or 0 */
 /* betty style doc for function main goes there */
-int main(void) {
+int main(void){
 	int n;
 
 	srand(time(0));
