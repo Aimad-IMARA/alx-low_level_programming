@@ -2,7 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/* The main function will check if n is positive negative or 0 */
+/*
+* main - Prints if number is positive, zero or negative
+* Return: Always (Success)
+*/
 /* betty style doc for function main goes there */
 int main(void)
 {
