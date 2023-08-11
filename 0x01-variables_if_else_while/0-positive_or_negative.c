@@ -6,9 +6,9 @@
 int main(void)
 {
 	/*
-	main - Prints if number is positive, zero or negative
-	Return: Always (Success)
-	*/
+	 * main - Prints if number is positive, zero or negative
+	 * Return: Always (Success)
+	 */
 	int n;
 
 	srand(time(0));
