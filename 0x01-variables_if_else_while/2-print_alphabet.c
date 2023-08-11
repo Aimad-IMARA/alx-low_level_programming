@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Print all the alphabets from a to z
  * Return: Always (success)
  */
