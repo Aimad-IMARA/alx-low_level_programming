@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-
+/* The main will check if n is positive negative or 0 */
 /* betty style doc for function main goes there */
 int main(void)
 {
@@ -23,5 +23,5 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	return (0); /*Indicates successful execution*/
+	return (0); /*Indicate successful execution*/
 }
