@@ -4,8 +4,8 @@
 /* more headers goes there */
 /* betty style doc for function main goes there */
 /**
- * main - the function check if the n is positive negative or 0.
- * return : always successful.
+ * main - the function check if the n is positive negative or 0
+ * Return: always (Success)
  */
 int main(void)
 {
