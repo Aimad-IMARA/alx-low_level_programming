@@ -1,7 +1,12 @@
 #include <stdio.h>
+/*
+ * main - Print all the alphabets
+ * Return: Always (success)
+ */
 int main(void)
 {
-    for (char c = 'a'; c <= 'z'; c++)
+    char c;
+    for (c = 'a'; c <= 'z'; c++)
     {
         putchar(c);
     }
