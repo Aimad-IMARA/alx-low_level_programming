@@ -2,8 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-
 /* betty style doc for function main goes there */
+/**
+ * main - the function check if the n is positive negative or 0.
+ * return : always successful.
+ */
 int main(void)
 {
 	int n;
