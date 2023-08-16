@@ -13,12 +13,8 @@ for (j = 0; j <= 8; j++)
 {
 for (k = 0; k <= 9; k++)
 {
-for (l = 0; l <= 9; l++)
+for (l = j+1; l <= 9; l++)
 {
-if (k == 0)
-{
-l = j+1;
-}
 putchar(i + '0');
 putchar(j + '0');
 putchar(' ');
