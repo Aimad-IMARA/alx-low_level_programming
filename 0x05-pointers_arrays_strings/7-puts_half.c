@@ -12,7 +12,7 @@ int s = 0, n;
 while (str[s] != '\0')
 {
 s++;
-if (s + 1 % 2 != '0')
+if ((s + 1) % 2 != 0)
 {
 n = (s - 1) / 2;
 }
@@ -20,8 +20,8 @@ else
 {
 n = (s / 2);
 }
-n++;
 }
+n++;
 for (s = n; str[s] != '\0'; s++)
 {
 putchar(str[s]);
