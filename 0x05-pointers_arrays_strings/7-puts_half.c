@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * puts_half - prints half of a string
  * @str: char to check
@@ -23,7 +24,7 @@ n++;
 }
 for (s = n; str[s] != '\0'; s++)
 {
-_putchar(str[s]);
+putchar(str[s]);
 }
-_putchar('\n');
+putchar('\n');
 }
