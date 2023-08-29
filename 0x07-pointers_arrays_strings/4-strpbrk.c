@@ -10,6 +10,7 @@
  * Return: a pointer to the byte
  * Done by AIMAD EDDINE IMARA
  */
+
 char *_strpbrk(char *s, char *accept)
 {
 int i;

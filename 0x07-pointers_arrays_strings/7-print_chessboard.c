@@ -8,6 +8,7 @@
  * Return: void
  * Done by AIMAD EDDINE IMARA
  */
+
 void print_chessboard(char (*a)[8])
 {
 int i, j;
